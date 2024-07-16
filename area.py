@@ -7,3 +7,5 @@ if __name__=="__main__":
     a=calculate_area(10,20)
     print("area: ",a)
 
+def add(a,b):
+    return a+b
